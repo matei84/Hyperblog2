@@ -4,3 +4,5 @@ Edad: 35
 trabajo: Finanzas
 Sitio: KPMG
 Profesion: Programador
+
+Hoy hablaremos de su vida.
