@@ -1,5 +1,6 @@
 Hola esta es la historia a utilizar en este curso de github.
 Nombre: Leonardo Matamoros
+Hay una nueva persona llamada anita 
 Edad: 35
 trabajo: Finanzas
 Sitio: KPMG
