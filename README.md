@@ -2,6 +2,8 @@
 
 - Curso de Git y GitHub de platzi.
 - Curso con un gran nivel.
+- Creado por el increible Platzi Team.
+
 
 # Editor.md
 
