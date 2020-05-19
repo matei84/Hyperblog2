@@ -3,6 +3,8 @@
 - Curso de Git y GitHub de platzi.
 - Curso con un gran nivel.
 - Creado por el increible Platzi Team.
+- Incluye cosas de Windows, linux y mac.
+- Disponible para todas las edades.
 
 
 # Editor.md
